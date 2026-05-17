@@ -1,0 +1,51 @@
+# Geotechnik — Aachen
+
+> Geotechnical engineering services in Aachen, Deutschland.
+
+## Services
+- [Anker](https://aachen.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://aachen.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://aachen.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://aachen.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://aachen.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://aachen.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://aachen.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://aachen.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://aachen.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://aachen.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://aachen.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://aachen.geotechnik.vip/fundamente/)
+- [Grundungen](https://aachen.geotechnik.vip/grundungen/)
+- [Hange](https://aachen.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://aachen.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://aachen.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://aachen.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://aachen.geotechnik.vip/labor/)
+- [Labor In Situ](https://aachen.geotechnik.vip/labor-in-situ/)
+- [Masw](https://aachen.geotechnik.vip/masw/)
+- [Pfahle](https://aachen.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://aachen.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://aachen.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://aachen.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://aachen.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://aachen.geotechnik.vip/schurfgruben/)
+- [Seismik](https://aachen.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://aachen.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://aachen.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://aachen.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://aachen.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://aachen.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://aachen.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://aachen.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://aachen.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://aachen.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://aachen.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://aachen.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://aachen.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://aachen.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Aachen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
